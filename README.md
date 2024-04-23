@@ -1,2 +1,4 @@
 Introduction to Price Prediction Model: Exploratory Data Analysis
+
+
 This project focuses on exploring a dataset containing information about automobile prices based on mileage and age. By conducting exploratory data analysis (EDA), we aim to gain insights into the relationships between the predictors (mileage and age) and the target variable (selling price). Through visualizations and statistical analysis, we aim to understand the dataset's characteristics and prepare it for building a predictive model. The ultimate goal is to develop a regression model capable of accurately predicting automobile prices, which can have valuable implications for the automotive industry and pricing strategies. This project serves as a foundational step towards building a robust and reliable price prediction model for automobiles.
